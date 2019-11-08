@@ -3,7 +3,7 @@
 ## Ambiente Virtual:
 python -m venv myvenv
 
-## Caso nao tenha venv instalado:
+## Caso não tenha venv instalado:
 sudo apt install python-venv
 
 ## Ativando o Ambiente Virtual:
@@ -66,6 +66,11 @@ INSTALLED_APPS = [
   'NOME_DA_APP',
  ]
 </code></pre>
+
+# Usuário administrador
+python manage.py createsuperuser
+
+localhost:8000/admin
 
 # Pronto! Missão cumprida!!!
 

@@ -1,4 +1,4 @@
-# Configurando ambiente Django
+# Configurando ambiente Django (Linux Ubuntu)
 
 ## Ambiente Virtual:
 python -m venv myvenv
